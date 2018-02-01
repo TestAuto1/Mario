@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.686 sec <<< FAILURE! - in TestSuite
+Dummy_test_to_fail(Test.TC_001)  Time elapsed: 0.03 sec  <<< FAILURE!
+java.lang.AssertionError: expected [12] but found [1]
+	at Test.TC_001.Dummy_test_to_fail(TC_001.java:18)
+
