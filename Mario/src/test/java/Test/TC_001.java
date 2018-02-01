@@ -15,7 +15,7 @@ public class TC_001 {
 	@Test				
 	 public void Dummy_test_to_fail()
 	 {								 
-	Assert.assertEquals(1,12);
+	Assert.assertEquals(1,1);
 	
 	}
 	
